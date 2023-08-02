@@ -4,7 +4,7 @@
         <v-app-bar-nav-icon />
       </template>
     <v-app-bar-title>
-      Trackr
+      Opus Tracker
     </v-app-bar-title>
   </v-app-bar>
 </template>

@@ -1,9 +1,9 @@
 <template>
-  <EntryInput />
-  <EntriesList />
+  <JobInput />
+  <Jobs />
 </template>
 
 <script setup>
-  import EntryInput from '@/components/EntryInput.vue'
-  import EntriesList from '@/components/EntriesList.vue'
+  import JobInput from '@/components/JobInput.vue'
+  import Jobs from '@/components/JobList.vue'
 </script>
